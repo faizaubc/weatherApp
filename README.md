@@ -7,5 +7,7 @@ The weather is retrieved in real time.
 The app is deployed to netlify service.
 The files are typescript.
 The application uses all class components in React.
+The library used is antd for React for Grid Layout etc.
+This app is responsive both in mobile and web.
 
 
